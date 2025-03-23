@@ -9,6 +9,8 @@ This is an HTML transcript of [page #666](https://beyondcanon.com/story/666) of 
 
 \> [About](about/)
 
+\> [Page #719 GIF](719/)
+
 [[toc]]
 
 {% renderFile "./src/chapter1.md", "", "njk" %}
